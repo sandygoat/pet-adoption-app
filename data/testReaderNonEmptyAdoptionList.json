@@ -1,0 +1,51 @@
+{
+  "pets": [
+  {
+    "owner": {
+      "phoneNumber": "1-778-456-7980",
+      "name": "ben"
+    },
+    "birthday": {
+      "month": 10,
+      "year": 2020,
+      "day": 14
+    },
+    "colour": 4,
+    "gender": 0,
+    "species": 0,
+    "vaccine condition": true,
+    "name": "daenerys",
+    "last vaccine date": {
+      "month": 10,
+      "year": 2020,
+      "day": 14
+    },
+    "adoption condition": true,
+    "age": 0,
+    "breed": 3
+  },
+  {
+    "owner": {
+      "phoneNumber": "N/A",
+      "name": "N/A"
+    },
+    "birthday": {
+      "month": 10,
+      "year": 2014,
+      "day": 15
+    },
+    "colour": 2,
+    "gender": 1,
+    "species": 1,
+    "vaccine condition": true,
+    "name": "dolores",
+    "last vaccine date": {
+      "month": 10,
+      "year": 2020,
+      "day": 14
+    },
+    "adoption condition": false,
+    "age": 6,
+    "breed": 0
+  }
+  ]}
